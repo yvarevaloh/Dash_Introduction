@@ -1,6 +1,7 @@
 import pandas as pd
 import plotly.express as px  # (version 4.7.0)
 import plotly.graph_objects as go
+
 import dash  # (version 1.12.0) pip install dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -19,8 +20,8 @@ print(df[:5])
 # ------------------------------------------------------------------------------
 # App layout
 app.layout = html.Div([
-    
-    html.H1("Web Application Dashboards with Dash",style={'text-align': 'center'}),
+
+    html.H1("Web Application Dashboards with Dash", style={'text-align': 'center'}),
 
     dcc.Dropdown(id="slct_year",
                  options=[
