@@ -1,6 +1,6 @@
 import dash      #(version 1.9.1) pip install dash==1.9.1
 import dash_table
-import pandas as pd
+import pandas as ps
 from collections import OrderedDict
 
 app = dash.Dash(__name__)

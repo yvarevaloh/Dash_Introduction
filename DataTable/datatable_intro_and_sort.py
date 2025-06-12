@@ -4,7 +4,7 @@ import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly.express as px
-import pandas as pd
+import pandas as ps
 
 # -------------------------------------------------------------------------------------
 # Import the cleaned data (importing csv into pandas)

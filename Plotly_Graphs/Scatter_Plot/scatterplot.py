@@ -1,4 +1,4 @@
-import pandas as pd     #(version 1.0.0)
+import pandas as ps     #(version 1.0.0)
 import plotly           #(version 4.5.0) #pip install plotly==4.5.0
 import plotly.express as px
 import plotly.io as pio

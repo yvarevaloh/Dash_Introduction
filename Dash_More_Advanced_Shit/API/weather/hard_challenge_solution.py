@@ -1,7 +1,7 @@
 # Solution to change your app to show yesterday’s forecast of "mintemp" & “avgtemp” in New York
 # Changes made to lines 15,19,37
 
-import pandas as pd     #(version 1.0.0)
+import pandas as ps     #(version 1.0.0)
 
 import dash             #(version 1.9.1) pip install dash==1.9.1
 import dash_core_components as dcc

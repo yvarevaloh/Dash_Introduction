@@ -1,5 +1,5 @@
 import plotly.express as px
-import pandas as pd
+import pandas as ps
 
 df = pd.read_csv("MPVDataset.csv")
 df = df[df["State"].isin(['AL', 'OR', 'SC'])]

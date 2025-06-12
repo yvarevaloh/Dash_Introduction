@@ -6,7 +6,7 @@ mapbox_access_token = cfg['mysql']['key']
 #-------------------------------------------------------
 # mapbox_access_token = 'insert_your_mapbox_token_here'
 
-import pandas as pd
+import pandas as ps
 import numpy as np
 import dash                     #(version 1.0.0)
 import dash_table

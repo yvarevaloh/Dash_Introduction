@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as ps
 import plotly
 import plotly.express as px
 import plotly.io as pio

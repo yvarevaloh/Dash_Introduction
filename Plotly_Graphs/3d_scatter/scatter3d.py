@@ -1,4 +1,4 @@
-import pandas as pd  # (version 1.0.0)
+import pandas as ps  # (version 1.0.0)
 import plotly.express as px  # (version 4.7.0)
 import plotly.io as pio
 import numpy as np

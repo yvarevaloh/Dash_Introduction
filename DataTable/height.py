@@ -1,6 +1,6 @@
 import dash             #(version 1.11.0) pip install dash==1.11.0
 import dash_table
-import pandas as pd
+import pandas as ps
 from collections import OrderedDict
 # (all code is from https://dash.plotly.com/datatable/height)
 

@@ -1,5 +1,5 @@
 import plotly.express as px
-import pandas as pd
+import pandas as ps
 import numpy as np
 
 df = pd.read_csv("MPVDataset.csv")

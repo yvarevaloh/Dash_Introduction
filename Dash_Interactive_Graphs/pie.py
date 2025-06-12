@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as ps
 
 import dash
 import dash_core_components as dcc

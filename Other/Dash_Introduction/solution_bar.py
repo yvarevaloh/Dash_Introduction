@@ -1,7 +1,7 @@
 # Solution to bar challenge.
 # Changed code lines 64 to 71
 
-import pandas as pd
+import pandas as ps
 import plotly.express as px  # (version 4.7.0)
 
 import dash  # (version 1.12.0) pip install dash

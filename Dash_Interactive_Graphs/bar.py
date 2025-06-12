@@ -2,7 +2,7 @@
 # A bar chart uses bars to show comparisons between categories of data. A bar chart will always have two axis.
 # One axis will generally have numerical values, and the other will describe the types of categories being compared.
 
-import pandas as pd #(version 0.24.2)
+import pandas as ps #(version 0.24.2)
 import datetime as dt
 import dash         #(version 1.0.0)
 import dash_core_components as dcc

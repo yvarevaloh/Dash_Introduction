@@ -1,7 +1,7 @@
 # Solution to line plot challenge.
 # Changes made to code lines: 22, 30-32, 50, 56, 59-68
 
-import pandas as pd
+import pandas as ps
 import plotly.express as px  # (version 4.7.0)
 
 import dash  # (version 1.12.0) pip install dash
